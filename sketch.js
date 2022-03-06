@@ -23,7 +23,7 @@ bob4=new Bob(450,350,50);
 bob5=new Bob(500,350,50);
 //bob6=new Bob(150,250,30);
  //fill ("brown");
-  roof1 = new Roof(400,100,300,40);
+  roof1 = new Roof(400,10,300,40);
   sling1= new Suspender(bob1.body,roof1.body,-50*2,0);
   sling2= new Suspender(bob2.body,roof1.body,-25*2,0);
   sling3= new Suspender(bob3.body,roof1.body,-0*2,0);
